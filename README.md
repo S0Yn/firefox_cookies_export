@@ -1,0 +1,2 @@
+# firefox_cookies_export
+匯出並且加密你的Firefox cookies,然後匯入你的新Firefox或者新Profile
