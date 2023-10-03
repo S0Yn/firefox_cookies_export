@@ -1,5 +1,5 @@
 # Firefox Cookies Export
-
+ README.md EN version [English](README_en.md)
 ## 描述
 
 `firefox_cookies_export` 是一個基於 Rust 的命令行工具，專為從 Firefox 瀏覽器導出和導入 cookies 設計。導出的 cookies 會保存在一個加密文件中，並且可以隨時恢復到瀏覽器。這對於在不同系統或配置文件之間備份或轉移 cookies 尤為有用。
