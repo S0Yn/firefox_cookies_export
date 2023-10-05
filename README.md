@@ -57,6 +57,8 @@ cargo build --release
 - **增強的加密方法**: 將應用改進的加密技術以確保導出數據的安全性。
 - **支援Linux**: 新增支援Linux的方法。
 - **加入不同主機同步的方法**: magic wormhole之類的。
+- **不同的瀏覽器支援**: google chrome, barve , edge 。
+- **選擇性匯入**: 可以匯入指定網站的cookies 。
 
 ## 貢獻
 
