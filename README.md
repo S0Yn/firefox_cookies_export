@@ -59,6 +59,7 @@ cargo build --release
 - **加入不同主機同步的方法**: magic wormhole之類的。
 - **不同的瀏覽器支援**: google chrome, barve , edge 。
 - **選擇性匯入**: 可以匯入指定網站的cookies 。
+- **使用者界面支持**: 對windows系統提供GUI 。
 
 ## 貢獻
 
